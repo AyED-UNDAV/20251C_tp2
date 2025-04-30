@@ -106,3 +106,9 @@ Esto significa:
 Ejemplo real:
 
 DC,c|DV,g|C,g|DVC,g\0
+
+
+## Entregables y forma de entrega
+
+- Se debe entregar un archivo txt contando la estrategia de resolución. Se recomienda primero analizar el problema y luego codificarlo. No es necesario que se extiendan un montón, solo con uno o dos párrafos contándonos con sus palabras cómo van a resolver el problema, está muy bien.
+- Se deben comprimir los archivos `.cpp` y el `.txt` en un zip y se deben subir al campus dentro de la entrega.
